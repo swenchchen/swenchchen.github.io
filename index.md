@@ -23,8 +23,10 @@ THz functional devices; THz spectroscopic and imaging systems; THz ellipsometry;
 
 ## Publications
 
-** Graphene Controlled Brewster Angle Device for Ultra Broadband Terahertz Modulation **
+**Graphene Controlled Brewster Angle Device for Ultra Broadband Terahertz Modulation**
+
 _Zefeng Chen†, Xuequan Chen†, Li Tao, Kun Chen, Mingzhu Long, Xudong Liu, Keyou Yan, Rayko I. Stantchev, Emma Pickwell-MacPherson*, Jian-Bin Xu*_
+
 Nature Communications, 2018, 9(1): 4909
 
 
