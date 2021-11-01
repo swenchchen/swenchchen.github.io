@@ -8,7 +8,7 @@
       <p align="left"><b> Great Bay Area Branch of Aerospace Information Research Institute</b></p>
       <p align="left"><b> Chinese Academic of Sciences</b></p>
       <p align="left"><b> Huangpu District, Guangzhou, Guangdong, China</b></p>
-      <p align="left"><b> Email: chenxq@aircas.ac.cn / swench@qq.com</b></p>
+      <p align="left"><b> Email: <a href="chenxq@aircas.ac.cn">chenxq@aircas.ac.cn / <a href="swench@qq.com">swench@qq.com</b></p>
       <p align="left"><b> Phone: +86 135 315 00664</b></p>
     </td>
   </tr>
@@ -23,4 +23,4 @@ THz functional devices; THz spectroscopic and imaging systems; THz ellipsometry;
 
 ## Publications
 
-<p><a href="https://scholar.google.com.hk/citations?user=n71R2h8AAAAJ">Please find the full list in Google Scholar </a></p>
+<p><a href="https://scholar.google.com/citations?user=7x3G_2wAAAAJ&hl=zh-CN">Please find the full list in Google Scholar </a></p>
