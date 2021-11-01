@@ -18,7 +18,15 @@
 
 Dr. Xuequan Chen was born in mainland China. He received the B.Eng. degree (Honors) from University of Electronic Science and Technology of China in 2014. After that, he joined Prof. Emma Pickwell-MacPherson's Terahertz group in the Chinese University of Hong Kong for his PhD research. His PhD focuses on improving system and algorithm design for fast and accurate terahertz spectroscopy, ellipsometry and imaging for material science and biomedical applications, and developing optical devices for terahertz intensity and phase modulation. Xuequan Chen was awarded with the Impact Postdoctoral Fellowship to work as a postdoctoral fellow in the Chinese University of Hong Kong to continue his research after receiving his PhD degree in 2018. He is now a research fellow in the Great Bay Area Branch of Aerospace Information Research Institute, CAS. Dr. Chen's research interests include terahertz functional devices, spectroscopic and imaging system designs, in vivo or ex vivo biomedical applications. In 2017, he received the best student paper award of the 42nd International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz) for the breakthrough development of accurate THz ellipsometer.
 
-## Welcome
+## Research Interests
+THz functional devices; THz spectroscopic and imaging systems; THz ellipsometry; THz biomedical applications
+
+## Publications
+
+** Graphene Controlled Brewster Angle Device for Ultra Broadband Terahertz Modulation **
+_Zefeng Chen†, Xuequan Chen†, Li Tao, Kun Chen, Mingzhu Long, Xudong Liu, Keyou Yan, Rayko I. Stantchev, Emma Pickwell-MacPherson*, Jian-Bin Xu*_
+Nature Communications, 2018, 9(1): 4909
+
 
 You can use the [editor on GitHub](https://github.com/swenchchen/xqchen-en.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
