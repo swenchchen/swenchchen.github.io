@@ -10,7 +10,7 @@
     <img src="/picture3-4.jpg" width="100">
     </td>
   </tr>
-<\table>
+</table>
 
 
 ## Welcome to GitHub Pages
