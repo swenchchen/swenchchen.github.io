@@ -21,13 +21,15 @@ Dr. Xuequan Chen was born in mainland China. He received the B.Eng. degree (Hono
 ## Research Interests
 THz functional devices; THz spectroscopic and imaging systems; THz ellipsometry; THz biomedical applications
 
-## Publications
+## Publications (Journals)
 
-**Graphene Controlled Brewster Angle Device for Ultra Broadband Terahertz Modulation**
+**2021**
 
-_Zefeng Chen†, Xuequan Chen†, Li Tao, Kun Chen, Mingzhu Long, Xudong Liu, Keyou Yan, Rayko I. Stantchev, Emma Pickwell-MacPherson*, Jian-Bin Xu*_
+  **Real time THz imaging—opportunities and challenges for skin cancer detection**
 
-Nature Communications, 2018, 9(1): 4909
+  _H Lindley-Hatcher, RI Stantchev, X Chen, AI Hernandez-Serrano, J Hardwicke, E Pickwell-MacPherson_
+
+  Applied Physics Letters
 
 
 You can use the [editor on GitHub](https://github.com/swenchchen/xqchen-en.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
