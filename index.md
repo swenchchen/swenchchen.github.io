@@ -1,3 +1,18 @@
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Xuequan (Swench) Chen</h1>
+      <p><b> Ph.D.</b></p>
+      <p><b> Email: chenxq@aircas.ac.cn</b></p>
+      <p><b> swench@qq.com</b></p>
+    </td>
+  <td width="25%">
+    <img src="/picture3-4.jpg" width="100">
+    </td>
+  </tr>
+<\table>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/swenchchen/xqchen-en.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
