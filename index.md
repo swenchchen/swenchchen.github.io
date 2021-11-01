@@ -1,11 +1,11 @@
 <table border="0">
   <tr>
-    <td width="28%">
-      <img src="/picture3-4.jpg" width="100%">
+    <td width="29%">
+      <img src="/picture3-4.jpg" width="90%">
     </td>
-    <td width="72%">
+    <td width="71%">
       <p align="left"><b> Research Fellow</b></p>
-      <p align="left"><b> Great Bay Area Branch of Aerospace Information Research Institute, CAS</b></p>
+      <p align="left"><b> Great Bay Area Branch of Aerospace Information Research Institute, Chinese Academic of Sciences</b></p>
       <p align="left"><b> Room 501, B7 building, Kai Yuan Da Dao No. 11, Huangpu District, Guangzhou, Guangdong, China</b></p>
       <p align="left"><b> Email: chenxq@aircas.ac.cn / swench@qq.com</b></p>
       <p align="left"><b> Phone: +86 135 315 00664</b></p>
@@ -14,7 +14,7 @@
 </table>
 
 
-## Welcome to GitHub Pages
+## Bibliography
 
 You can use the [editor on GitHub](https://github.com/swenchchen/xqchen-en.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
