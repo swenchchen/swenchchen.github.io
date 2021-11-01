@@ -6,7 +6,8 @@
     <td width="71%">
       <p align="left"><b> Research Fellow</b></p>
       <p align="left"><b> Great Bay Area Branch of Aerospace Information Research Institute, Chinese Academic of Sciences</b></p>
-      <p align="left"><b> Room 501, B7 building, Kai Yuan Da Dao No. 11, Huangpu District, Guangzhou, Guangdong, China</b></p>
+      <p align="left"><b> Chinese Academic of Sciences</b></p>
+      <p align="left"><b> Huangpu District, Guangzhou, Guangdong, China</b></p>
       <p align="left"><b> Email: chenxq@aircas.ac.cn / swench@qq.com</b></p>
       <p align="left"><b> Phone: +86 135 315 00664</b></p>
     </td>
