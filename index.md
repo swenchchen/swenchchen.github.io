@@ -1,14 +1,14 @@
 <table border="0">
   <tr>
-    <td width="25%">
+    <td width="28%">
       <img src="/picture3-4.jpg" width="100%">
     </td>
-    <td width="75%">
-      <p><b> Research Fellow</b></p>
-      <p><b> Great Bay Area branch of Aerospace Information Research Institute, CAS</b></p>
-      <p><b> Room 501, B7 building, Kai Yuan Da Dao No. 11, Huangpu District, Guangzhou, Guangdong, China</b></p>
-      <p><b> Email: chenxq@aircas.ac.cn / swench@qq.com</b></p>
-      <p><b> Phone: +86 135 315 00664</b></p>
+    <td width="72%">
+      <p align="left"><b> Research Fellow</b></p>
+      <p align="left"><b> Great Bay Area Branch of Aerospace Information Research Institute, CAS</b></p>
+      <p align="left"><b> Room 501, B7 building, Kai Yuan Da Dao No. 11, Huangpu District, Guangzhou, Guangdong, China</b></p>
+      <p align="left"><b> Email: chenxq@aircas.ac.cn / swench@qq.com</b></p>
+      <p align="left"><b> Phone: +86 135 315 00664</b></p>
     </td>
   </tr>
 </table>
