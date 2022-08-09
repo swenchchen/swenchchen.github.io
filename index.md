@@ -24,3 +24,28 @@ THz functional devices; THz spectroscopic and imaging systems; THz ellipsometry;
 ## Publications
 
 <p><a href="https://scholar.google.com/citations?user=7x3G_2wAAAAJ&hl=zh-CN">Please find the full list in Google Scholar </a></p>
+
+Peer-Reviewed Journal Publications
+
+1. 	X. Chen, E. Pickwell‐MacPherson, An introduction to terahertz spectroscopic ellipsometry. APL Photonics. 7, 071101 (2022).
+2. 	R. I. Stantchev, Q. Sun, S. Fan, X. Chen, E. Pickwell-macpherson, Terahertz in-vivo studies : improving experimental techniques to eliminate variables. Terahertz Sci. Technol. 12, 1–11 (2019).
+3. 	X. Chen, H. Lindley-Hatcher, R. I. Stantchev, J. Wang, K. Li, H.-S. Arturo, Z. D. Taylor, E. Castro-Camus, E. Pickwell‐MacPherson, Terahertz (THz) biophotonics technology: instrumentation, techniques, and biomedical applications. Chem. Phys. Rev. 3, 011311 (2022).
+4. 	H. Lindley-Hatcher, R. I. Stantchev, X. Chen, A. I. Hernandez-serrano, J. Hardwicke, E. Pickwell‐MacPherson, Real time THz imaging—opportunities and challenges for skin cancer detection. Appl. Phys. Lett. 118, 230501 (2021).
+5. 	J. Wang, H. Lindley-hatcher, X. Chen, E. Pickwell‐MacPherson, THz Sensing of Human Skin : A Review of Skin Modeling Approaches. Sensors. 21, 3624 (2021).
+6. 	X. Chen, K. Li, R. Zhang, S. K. Gupta, A. K. Srivastava, E. Pickwell‐MacPherson, Highly Efficient Ultra‐Broadband Terahertz Modulation Using Bidirectional Switching of Liquid Crystals. Adv. Opt. Mater. 7, 1901321 (2019).
+7. 	X. Liu, X. Chen, E. P. J. Parrott, E. Pickwell-MacPherson, Exploiting a metal wire grating in total internal reflection geometry to achieve achromatic polarization conversion. Photonics Res. 5, 299–304 (2017).
+8. 	X. Liu, M. Jia, S. Fan, R. I. Stantchev, X. Chen, E. Pickwell-Macpherson, Y. Sun, Deep THz modulation at Fabry-Perot resonances using graphene in periodic microslits. Opt. Express. 29, 6199 (2021).
+9. 	X. Chen, Q. Sun, J. Wang, H. Lindley-Hatcher, E. Pickwell‐MacPherson, Exploiting complementary terahertz ellipsometry configurations to probe the hydration and cellular structure of skin in vivo. Adv. Photonics Res. 2, 2000024 (2021).
+10. 	K. Li, X. Chen, S. Shen, R. Zhang, E. Pickwell-macpherson, Genetic Algorithm Based Optimization for Terahertz Time-Domain Adaptive Sampling. IEEE Trans. Terahertz Sci. Technol. 9, 675–683 (2019).
+11. 	X. Chen, Q. Sun, R. I. Stantchev, E. Pickwell-MacPherson, Objective and efficient terahertz signal denoising by transfer function reconstruction. APL Photonics. 5, 056104 (2020).
+12. 	X. Liu, X. Chen, E. P. J. Parrott, C. Han, G. Humbert, A. Crunteanu, E. Pickwell-MacPherson, Invited Article: An active terahertz polarization converter employing vanadium dioxide and a metal wire grating in total internal reflection geometry. APL Photonics. 3, 051604 (2018).
+13. 	K. Liu, R. Zhang, Y. Liu, X. Chen, K. Li, E. Pickwell-MacPherson, Gold nanoparticle enhanced detection of EGFR with terahertz metamaterial biosensor. Biomed. Opt. Express. 12, 1559–1567 (2021).
+14. 	Z. Chen, X. Chen, L. Tao, K. Chen, M. Long, X. Liu, K. Yan, R. I. Stantchev, E. Pickwell-MacPherson, J.-B. Xu, Graphene controlled Brewster angle device for ultra broadband terahertz modulation. Nat. Commun. 9, 4909 (2018).
+15. 	Q. Sun, X. Liu, J. Cao, R. I. Stantchev, Y. Zhou, X. Chen, E. P. J. Parrott, J. Lloyd-Hughes, N. Zhao, E. Pickwell-MacPherson, Highly Sensitive Terahertz Thin Film Total Internal Reflection Spectroscopy Reveals in Situ Photoinduced Structural Changes in Methylammonium Lead Halide Perovskites. J. Phys. Chem. C. 122, 17552–17558 (2018).
+16. 	Q. Sun, X. Chen, X. Liu, R. I. Stantchev, E. Pickwell‐MacPherson, Exploiting Total Internal Reflection Geometry for Terahertz Devices and Enhanced Sample Characterization. Adv. Opt. Mater. 8, 1900535 (2020).
+17. 	Q. Sun, K. Liu, X. Chen, X. Liu, A. I. Hernandez-Serrano, E. Pickwell-MacPherson, Utilizing multilayer structures to enhance terahertz characterization of thin films ranging from aqueous solutions to histology slides. Opt. Lett. 44, 2149–2152 (2019).
+18. 	K. Li, X. Chen, R. Zhang, E. Pickwell-Macpherson, Classification for glucose and lactose terahertz spectrums based on SVM and DNN methods. IEEE Trans. Terahertz Sci. Technol. 10, 617–623 (2020).
+19. 	X. Chen, E. P. J. Parrott, Z. Huang, H. Chan, E. Pickwell-MacPherson, Robust and Accurate Terahertz Time-Domain Spectroscopic Ellipsometry. Photonics Res. 6, 768–775 (2018).
+20. 	X. Chen, E. P. J. Parrott, B. S. Y. Ung, E. Pickwell-Macpherson, A Robust Baseline and Reference Modification and Acquisition Algorithm for Accurate THz Imaging. IEEE Trans. Terahertz Sci. Technol. 7, 493–501 (2017).
+21. 	X. Chen, E. Pickwell-MacPherson, A Sensitive and Versatile Thickness Determination Method Based on Non-Inflection Terahertz Property Fitting. Sensors. 19, 4118 (2019).
+
