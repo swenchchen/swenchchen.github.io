@@ -49,3 +49,6 @@ Peer-Reviewed Journal Publications
 20. X. Liu, X. Chen, E. P. J. Parrott, E. Pickwell-MacPherson, Exploiting a metal wire grating in total internal reflection geometry to achieve achromatic polarization conversion. <i>Photonics Res.</i> 5, 299–304 (2017). <a href="https://doi.org/10.1364/PRJ.5.000299"> Link </a>
 21. X. Chen, E. P. J. Parrott, B. S. Y. Ung, E. Pickwell-Macpherson, A Robust Baseline and Reference Modification and Acquisition Algorithm for Accurate THz Imaging. <i>IEEE Trans. Terahertz Sci. Technol.</i> 7, 493–501 (2017). <a href="https://doi.org/10.1109/TTHZ.2017.2722981"> Link </a>
 
+
+
+<span id="busuanzi_container_site_uv">Count<span id="busuanzi_value_site_uv"></span>times</span>
