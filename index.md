@@ -5,7 +5,7 @@
     </td>
     <td width="71%">
       <p align="left"><b> Research Fellow</b></p>
-      <p align="left"><b> <a href="http://terahertz.ac.cn/">Great Bay Area Branch of Aerospace Information Research Institute</a></b></p>
+      <p align="left"><b> <a href="http://terahertz.ac.cn/">Greater Bay Area Branch of Aerospace Information Research Institute</a></b></p>
       <p align="left"><b> Chinese Academy of Sciences</b></p>
       <p align="left"><b> Huangpu District, Guangzhou, Guangdong, China</b></p>
       <p align="left"><b> Email: <a href="mailto:chenxq@aircas.ac.cn?subject=subject text">chenxq@aircas.ac.cn</a> / <a href="mailto:swench@qq.com?subject=subject text">swench@qq.com</a></b></p>
