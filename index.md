@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="29%">
-      <img src="/personal_pic.jpg" width="90%">
+      <img src="/pic_home.jpg" width="90%">
     </td>
     <td width="71%">
       <p align="left"><b> Research Fellow</b></p>
