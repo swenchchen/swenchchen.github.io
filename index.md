@@ -5,7 +5,7 @@
     </td>
     <td width="71%">
       <p align="left"><b> Research Fellow</b></p>
-      <p align="left"><b> <a href="http://terahertz.ac.cn/">Greater Bay Area Branch of Aerospace Information Research Institute</a></b></p>
+      <p align="left"><b> <a href="http://terahertz.ac.cn/">GBA Branch of Aerospace Information Research Institute</a></b></p>
       <p align="left"><b> Chinese Academy of Sciences</b></p>
       <p align="left"><b> Huangpu District, Guangzhou, Guangdong, China</b></p>
       <p align="left"><b> Email: <a href="mailto:chenxq@aircas.ac.cn?subject=subject text">chenxq@aircas.ac.cn</a> / <a href="mailto:swench@qq.com?subject=subject text">swench@qq.com</a></b></p>
@@ -16,16 +16,26 @@
 
 ## Biography
 
-Dr. Xuequan Chen was born in mainland China. He received the B.Eng. degree from University of Electronic Science and Technology of China in 2014. After that, he joined <a href="https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/emmasthzgroup/">Prof. Emma Pickwell-MacPherson's Terahertz group</a> in the Chinese University of Hong Kong for his PhD research. His PhD focuses on improving system and algorithm design for fast and accurate terahertz spectroscopy, ellipsometry and imaging for material science and biomedical applications, and developing optical devices for terahertz intensity and phase modulation. Xuequan Chen awarded the Impact Postdoctoral Fellowship and worked as a postdoctoral fellow in the Chinese University of Hong Kong to continue his research after receiving his Ph.D. degree in 2018. He is now a research fellow in the Greater Bay Area Branch of Aerospace Information Research Institute, CAS. Dr. Chen's research interests include terahertz functional devices, spectroscopic and imaging system designs, in vivo or ex vivo biomedical applications.
+Dr. Xuequan Chen was born in mainland China. He received the B.Eng. degree from University of Electronic Science and Technology of China in 2014. After that, he joined <a href="https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/emmasthzgroup/">Prof. Emma Pickwell-MacPherson's Terahertz group</a> in the Chinese University of Hong Kong for his PhD research. His PhD focuses on improving system and algorithm design for fast and accurate terahertz spectroscopy, ellipsometry and imaging for material science and biomedical applications, and developing optical devices for terahertz intensity and phase modulation. Xuequan Chen awarded the Impact Postdoctoral Fellowship and worked as a postdoctoral fellow in the Chinese University of Hong Kong to continue his research after receiving his Ph.D. degree in 2018. He is now a research fellow in the GBA (Greater Bay Area) Branch of Aerospace Information Research Institute, CAS. Dr. Chen's research interests include terahertz functional devices, systems and algorithms for THz spectroscopy and imaging, in vivo or ex vivo biomedical applications.
 
 ## Research Interests
-THz functional devices; THz spectroscopic and imaging systems; THz ellipsometry; THz biomedical applications
+THz functional devices; THz spectroscopic and imaging systems; THz algorithms; THz ellipsometry; THz biomedical applications
 
 ## Publications
 
 <p><a href="https://scholar.google.com/citations?user=7x3G_2wAAAAJ&hl=zh-CN">Full list at Google Scholar </a></p>
 
 Peer-Reviewed Journal Publications
+
+H. Chen, K. Wang, X. Chen, G. Fang, Real-time and calibration-free generalized terahertz time-domain spectroscopic ellipsometry, <i>Applied Physics Letters.</i> 124: 111106 (2024). <a href="https://doi.org/10.1063/5.0188364"> Link </a>
+
+H. Ou, R. I. Stantchev, X. Chen, T. Blu, M. Semtsiv, W. T. Masselink, A. H. Serrano, G. Costa, J. Young, N. Chopra, J. Lloyd-Hughes, E. MacPherson, Simultaneous measurement of orthogonal terahertz fields via an emission multiplexing scheme, <i>Optics Express.</i> 32(4): 5567-5581 (2024). <a href="https://doi.org/10.1364/OE.505567"> Link </a>
+
+J. Yang, T. Wang, G. Fang, L. Qi, X. Chen, Chiral identification of lactic acid enantiomers by an achiral terahertz metasurface sensor, <i>Optics and Laser Technology.</i> 172: 110487 (2024). <a href="https://doi.org/10.1016/j.optlastec.2023.110487"> Link </a>
+
+T. Zhu, H. Chen, K. Liu, G. Fang, X. Chen, A Row Displacement Correction Algorithm for High-speed and Accurate Terahertz Raster Scanning Imaging, <i>Journal of Infrared, Millimeter, and Terahertz Waves.</i> 44: 1038-1051 (2023). <a href="https://doi.org/10.1007/s10762-023-00955-w"> Link </a>
+
+Z. Yu, H. Chen, X. Chen, Y-S. Lin, All-dielectric terahertz metamaterial with polarization switching characteristic, <i>Materials Research Bulletin.</i> 171: 112637 (2024). <a href="https://doi.org/10.1016/j.materresbull.2023.112637"> Link </a>
 
 K. Wang, X. Chen, Z. Wen, Analysis of Low-Frequency Communication of Hypersonic Vehicles in Thermodynamic and Chemical Non-Equilibrium State, <i>Applied Sciences.</i> 13(19): 10815 (2023). <a href="https://doi.org/10.3390/app131910815"> Link </a>
 
