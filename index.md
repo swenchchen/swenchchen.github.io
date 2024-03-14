@@ -7,7 +7,7 @@
       <p align="left"><b> Research Fellow</b></p>
       <p align="left"><b> <a href="http://terahertz.ac.cn/">GBA Branch of Aerospace Information Research Institute</a></b></p>
       <p align="left"><b> Chinese Academy of Sciences</b></p>
-      <p align="left"><b> Huangpu District, Guangzhou, Guangdong, China</b></p>
+      <p align="left"><b> Guangzhou, 510530, Guangdong, China</b></p>
       <p align="left"><b> Email: <a href="mailto:chenxq@aircas.ac.cn?subject=subject text">chenxq@aircas.ac.cn</a> / <a href="mailto:swench@qq.com?subject=subject text">swench@qq.com</a></b></p>
       <p align="left"><b> Phone: +86 135 315 00664</b></p>
     </td>
